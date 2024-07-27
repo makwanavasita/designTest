@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Big Caslon';
+    src: url('./BigCaslon-Medium.woff2') format('woff2'),
+        url('./BigCaslon-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir Next LT Pro';
+    src: url('./AvenirNextLTPro-Bold.woff2') format('woff2'),
+        url('./AvenirNextLTPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir Next LT Pro';
+    src: url('./AvenirNextLTPro-BoldCnIt.woff2') format('woff2'),
+        url('./AvenirNextLTPro-BoldCnIt.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir Next LT Pro';
+    src: url('./AvenirNextLTPro-BoldCn.woff2') format('woff2'),
+        url('./AvenirNextLTPro-BoldCn.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir Next LT Pro';
+    src: url('./AvenirNextLTPro-Cn.woff2') format('woff2'),
+        url('./AvenirNextLTPro-Cn.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
